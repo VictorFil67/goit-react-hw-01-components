@@ -1,0 +1,30 @@
+.item {
+    display: flex;
+    gap: 25px;
+    align-items: center;
+    width: 500px;
+    height: 170px;
+    justify-content: start; 
+    margin: 0 auto 20px;
+    padding-left: 60px;
+    box-shadow: 3px 2px 4px 4px rgb(208, 218, 228);
+    border-radius: 10px;
+}
+.avatar {
+   width: 100px;
+   height: 100px; 
+}
+.name {
+    
+}
+.status {
+width: 30px;
+height: 30px;
+border-radius: 15px;
+}
+.true {
+    background-color: green;
+}
+.false {
+    background-color: red;
+}
