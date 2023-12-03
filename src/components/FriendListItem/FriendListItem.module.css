@@ -4,7 +4,7 @@
     align-items: center;
     width: 500px;
     height: 170px;
-    justify-content: start; 
+    justify-content: flex-start; 
     margin: 0 auto 20px;
     padding-left: 60px;
     box-shadow: 3px 2px 4px 4px rgb(208, 218, 228);
@@ -15,7 +15,9 @@
    height: 100px; 
 }
 .name {
-    
+    color: black;
+    font-weight: 500;
+    font-size: 45px;
 }
 .status {
 width: 30px;
