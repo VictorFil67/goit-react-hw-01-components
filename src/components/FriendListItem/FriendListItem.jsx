@@ -7,4 +7,4 @@ return (
  <p className={s.name}>{name}</p>
 </li>
 )
-}
+};
